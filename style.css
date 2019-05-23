@@ -1,0 +1,26 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+header{
+	width: auto;
+	height: 200px;
+	background: yellow;
+	color: white;
+	text-align: center;	
+}
+
+.main{
+	width: auto;
+	height: 400px;
+	background: red;
+	color: white;
+	text-align: center;	
+}
+footer{
+	width: auto;
+	height: 200px;
+	background: white;
+	text-align: center;
+}
